@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://pavem.sanchaya.net/sitemap.xml
